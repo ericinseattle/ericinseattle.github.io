@@ -158,7 +158,7 @@ hr {
 /* Page header tweaks */
 /* line 142, ../_sass/_base.scss */
 .page-header {
-  -webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
+  /*-webkit-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   -moz-box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   box-shadow: rgba(255, 255, 255, 0.1) 0 1px 0, rgba(0, 0, 0, 0.8) 0 1px 7px 0px inset;
   background: #202020;
@@ -176,7 +176,7 @@ hr {
   -webkit-border-bottom-right-radius: 5px;
   -ms-border-bottom-right-radius: 5px;
   -o-border-bottom-right-radius: 5px;
-  border-bottom-right-radius: 5px;
+  border-bottom-right-radius: 5px;*/
 }
 /* line 155, ../_sass/_base.scss */
 .page-header h1 {
