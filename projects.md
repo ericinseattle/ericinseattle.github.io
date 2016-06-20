@@ -8,7 +8,6 @@ group: navigation
 
 {% for post in site.categories.project %}
   <ul>
-    {% assign pages_list = category[1] %}  
     {% include JB/pages_list %}
   </ul>
 {% endfor %}
