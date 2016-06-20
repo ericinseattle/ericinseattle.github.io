@@ -6,6 +6,6 @@ group: navigation
 ---
 {% include JB/setup %}
 
-{% for post in site.categories[project] %}
+{% for post in site.categories.project %}
     <li>{{ post.title }}</li>
 {% endfor %}
