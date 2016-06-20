@@ -9,3 +9,4 @@ group: navigation
 {% for post in site.categories.project %}
 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+
