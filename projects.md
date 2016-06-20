@@ -7,5 +7,5 @@ group: navigation
 {% include JB/setup %}
 
 {% for post in site.categories.project %}
-    <li>{{ post.title }}</li>
+<li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
