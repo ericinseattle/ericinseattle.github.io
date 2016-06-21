@@ -11,7 +11,4 @@ What exactly do I do? Basically I work with all types of data whether it be thro
 
 Feel free to take a look at some of the projects I have done for class and in my free time. If you wish to contact me, my email is listed below.
 
-
-
-
-
+<br/>
