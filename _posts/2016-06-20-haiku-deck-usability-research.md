@@ -2,7 +2,7 @@
 layout: post
 title: "Haiku Deck Usability Research"
 description: ""
-category: project
+category: temp
 tags: [usability, ux]
 ---
 {% include JB/setup %}
