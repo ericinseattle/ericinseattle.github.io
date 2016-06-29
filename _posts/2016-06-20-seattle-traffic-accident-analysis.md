@@ -9,7 +9,7 @@ tags: [tableau, data visualization]
 
 This Tableau dashboard looks at the traffic accidents within the City of Seattle. The dashboard lets the user look at incidents through many different lenses and also guides users so that they can interpret and generate their own insights from the data.
 
-Users can select from pedestrian involved, bicycle involved, and automobile involved accidents as well as adjust hte dat range of the accidents and search by street.
+Users can select from pedestrian involved, bicycle involved, and automobile involved accidents as well as adjust the date range of the accidents and search by street.
 
 This project was created as part of the Tableau Visual Analytics certificate program I recently completed. The underlying data is from the [Seattle Department of Transportation - Open Data Site](https://data.seattle.gov).
 
